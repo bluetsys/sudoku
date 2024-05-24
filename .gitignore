@@ -1,0 +1,16 @@
+assembly/
+rust/
+java/
+cobol/
+dart/
+fortran/
+golang/
+julia/
+kotlin/
+pascal/
+perl/
+ruby/
+scala/
+swift/
+
+.vscode/

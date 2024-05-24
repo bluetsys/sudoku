@@ -16,7 +16,7 @@
 | pascal     |          |
 | perl       |          |
 | ruby       | 완료     |
-| scala      |          |
+| scala      | 완료     |
 | swift      | 완료     |
 
 ## 문제

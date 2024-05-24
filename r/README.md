@@ -1,0 +1,3 @@
+``` sh
+Rscript ./sudoku.R
+```

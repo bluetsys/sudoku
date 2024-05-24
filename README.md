@@ -6,11 +6,11 @@
 | python     | 완료     |
 | r          | 완료     |
 | rust       |          |
-| java       |          |
+| java       | 완료     |
 | cobol      |          |
 | dart       |          |
 | fortran    |          |
-| golang     |          |
+| golang     | 완료     |
 | julia      |          |
 | kotlin     |          |
 | pascal     |          |

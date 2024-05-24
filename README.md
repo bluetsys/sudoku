@@ -18,3 +18,9 @@
 | ruby       |          |
 | scala      |          |
 | swift      |          |
+
+## 문제
+![Octocat smiling and raising a tentacle.](/images/array.png)
+
+## 완료
+![Octocat smiling and raising a tentacle.](/images/solve.png)

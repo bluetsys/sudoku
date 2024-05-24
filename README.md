@@ -12,10 +12,10 @@
 | fortran    |          |
 | golang     | 완료     |
 | julia      |          |
-| kotlin     |          |
+| kotlin     | 완료     |
 | pascal     |          |
 | perl       |          |
-| ruby       |          |
+| ruby       | 완료     |
 | scala      |          |
 | swift      |          |
 

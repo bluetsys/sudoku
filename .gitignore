@@ -3,5 +3,6 @@ cobol/
 fortran/
 pascal/
 perl/
+erlang/
 
 .vscode/
